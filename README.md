@@ -1,0 +1,1 @@
+This repository contains an example of an ActionScript error: IndexOutOfBoundsException.  The bug arises when attempting to access an array element beyond the array's defined bounds.  The solution demonstrates how to avoid this error by properly checking array boundaries before access.
